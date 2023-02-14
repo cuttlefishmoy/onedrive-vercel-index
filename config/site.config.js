@@ -52,8 +52,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      name: 'QQ',
+      link: 'https://jq.qq.com/?_wv=1027&k=h0Y0QcE3',
     },
   ],
 
