@@ -55,6 +55,10 @@ module.exports = {
       name: 'QQ',
       link: 'https://jq.qq.com/?_wv=1027&k=h0Y0QcE3',
     },
+    {
+      name: 'Telegram',
+      link: 'https://t.me/+Hi95AzcCHAthODc1',
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
