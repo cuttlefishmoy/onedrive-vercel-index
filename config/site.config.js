@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'QQ',
-      link: 'https://jq.qq.com/?_wv=1027&k=h0Y0QcE3',
+      link: 'https://pd.qq.com/s/87ts7wejz',
     },
     {
       name: 'Telegram',
