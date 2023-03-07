@@ -52,16 +52,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'QQ',
-      link: 'https://pd.qq.com/s/87ts7wejz',
-    },
-    {
       name: 'Telegram',
       link: 'https://t.me/+Hi95AzcCHAthODc1',
-    },
-    {
-      name: 'bilibili',
-      link: 'https://space.bilibili.com/103898527',
     },
   ],
 
